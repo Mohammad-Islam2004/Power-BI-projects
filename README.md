@@ -38,6 +38,7 @@ The analysis focuses on regional performance comparison, sales growth, and key b
 🖼️ **Dashboard Preview**
 
 
-<img width="962" height="530" alt="image" src="https://github.com/user-attachments/assets/7086a6bc-d618-4676-987b-f92bda13c6c1" />
+<img width="962" height="530" alt="image" src="https://github.com/user-attachments/assets/1d42f609-87ac-44a3-b3c0-3d98e6c170c8" />
+
 
 
